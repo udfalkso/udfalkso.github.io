@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T17:13:08.455Z" agent="5.0 (Macintosh)" etag="AZ_oaPEBGjVxa_02Ce6p" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T17:16:46.002Z" agent="5.0 (Macintosh)" etag="-nX00Djgbl4MrQ-Bf0H_" version="13.4.9" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2386" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="470" width="520" height="300" as="geometry" />
         </mxCell>
         <mxCell id="3Y31yZKhfS3toFtUBgbY-1" value="Personalization Team" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="650" y="60" width="450" height="970" as="geometry" />
+          <mxGeometry x="650" y="120" width="450" height="910" as="geometry" />
         </mxCell>
         <mxCell id="3Y31yZKhfS3toFtUBgbY-2" value="ESPN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="520" height="300" as="geometry" />
@@ -61,8 +61,8 @@
             <mxPoint x="270" y="365" as="sourcePoint" />
             <mxPoint x="1010" y="570" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="370" />
-              <mxPoint x="500" y="370" />
+              <mxPoint x="270" y="380" />
+              <mxPoint x="500" y="380" />
               <mxPoint x="500" y="325" />
             </Array>
           </mxGeometry>
@@ -72,7 +72,9 @@
             <mxPoint x="360" y="365" as="sourcePoint" />
             <mxPoint x="730" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="730" y="345" />
+              <mxPoint x="430" y="345" />
+              <mxPoint x="430" y="320" />
+              <mxPoint x="730" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -102,8 +104,8 @@
             <mxPoint x="390" y="395" as="sourcePoint" />
             <mxPoint x="730" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="210" y="660" />
-              <mxPoint x="690" y="660" />
+              <mxPoint x="210" y="650" />
+              <mxPoint x="690" y="650" />
               <mxPoint x="690" y="380" />
             </Array>
           </mxGeometry>
@@ -113,8 +115,8 @@
             <mxPoint x="220" y="685" as="sourcePoint" />
             <mxPoint x="740" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="670" />
-              <mxPoint x="700" y="670" />
+              <mxPoint x="270" y="660" />
+              <mxPoint x="700" y="660" />
               <mxPoint x="700" y="385" />
             </Array>
           </mxGeometry>
@@ -124,8 +126,7 @@
             <mxPoint x="280" y="685" as="sourcePoint" />
             <mxPoint x="740" y="395" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="680" />
-              <mxPoint x="710" y="680" />
+              <mxPoint x="710" y="695" />
               <mxPoint x="710" y="385" />
             </Array>
           </mxGeometry>
