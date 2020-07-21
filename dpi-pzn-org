@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-21T19:36:43.387Z" agent="5.0 (Macintosh)" etag="9l_h8qIvKN03ytd4B5e_" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-21T19:39:56.854Z" agent="5.0 (Macintosh)" etag="Sehp2kZDzaeP5vzQbbF9" version="13.4.9" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2386" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -261,6 +261,28 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1285" y="280" as="sourcePoint" />
             <mxPoint x="1020" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-76" value="" style="endArrow=block;dashed=1;html=1;strokeWidth=2;fontSize=18;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="-130" as="sourcePoint" />
+            <mxPoint x="600" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-77" value="PZN team has embedded resources that can ramp up as needed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="LpV175WjBuzZw34_Mzus-76">
+          <mxGeometry x="-0.208" relative="1" as="geometry">
+            <mxPoint x="46" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-78" value="" style="endArrow=block;html=1;strokeWidth=2;fontSize=18;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="-50" as="sourcePoint" />
+            <mxPoint x="460" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-79" value="PZN team collaborates with on ongoing basis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="LpV175WjBuzZw34_Mzus-78">
+          <mxGeometry x="-0.208" relative="1" as="geometry">
+            <mxPoint x="22" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
