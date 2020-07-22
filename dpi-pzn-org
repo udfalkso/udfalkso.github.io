@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T15:08:27.286Z" agent="5.0 (Macintosh)" etag="up1wbzttwcH3BmOxuMgx" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T15:09:31.878Z" agent="5.0 (Macintosh)" etag="im5fGX9jvb6extLkPu7e" version="13.4.9" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2807" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-89" value="Workflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="4100" y="-150" width="810" height="20" as="geometry" />
+          <mxGeometry x="4455.03" y="-150" width="810" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-113" value="" style="endArrow=none;html=1;strokeWidth=22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -292,194 +292,194 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-114" value="Discovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4100" y="20" width="810" height="20" as="geometry" />
+          <mxGeometry x="4455.03" y="20" width="810" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-115" value="Understand available user information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="120" width="550" height="170" as="geometry" />
+          <mxGeometry x="4285.03" y="120" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-116" value="Understand available content and content metadata" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4540" y="120" width="620" height="170" as="geometry" />
+          <mxGeometry x="4895.03" y="120" width="620" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-117" value="Explicit Favorites" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4005" y="180" width="190" height="30" as="geometry" />
+          <mxGeometry x="4360.03" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-118" value="Implicit Favorites" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4215" y="180" width="190" height="30" as="geometry" />
+          <mxGeometry x="4570.03" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-119" value="Demographics" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4125" y="230" width="190" height="30" as="geometry" />
+          <mxGeometry x="4480.03" y="230" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-120" value="Types of Content" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4610" y="180" width="190" height="30" as="geometry" />
+          <mxGeometry x="4965.03" y="180" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-121" value="How is Data Accessible?&amp;nbsp; API?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4820" y="180" width="270" height="30" as="geometry" />
+          <mxGeometry x="5175.03" y="180" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-122" value="Performance Signals" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4610" y="230" width="190" height="30" as="geometry" />
+          <mxGeometry x="4965.03" y="230" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-123" value="Understand connections between users and content" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4240" y="375" width="550" height="170" as="geometry" />
+          <mxGeometry x="4595.03" y="375" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-124" value="User Attributes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4280" y="475" width="190" height="30" as="geometry" />
+          <mxGeometry x="4635.03" y="475" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-125" value="Content Attributes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4560" y="475" width="190" height="30" as="geometry" />
+          <mxGeometry x="4915.03" y="475" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-126" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-124">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4110" y="620" as="sourcePoint" />
-            <mxPoint x="4560" y="490" as="targetPoint" />
+            <mxPoint x="4465.03" y="620" as="sourcePoint" />
+            <mxPoint x="4915.03" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-127" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-116" target="LpV175WjBuzZw34_Mzus-123">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4215" y="300" as="sourcePoint" />
-            <mxPoint x="4515.1" y="387.03999999999996" as="targetPoint" />
+            <mxPoint x="4570.03" y="300" as="sourcePoint" />
+            <mxPoint x="4870.13" y="387.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-128" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-115" target="LpV175WjBuzZw34_Mzus-123">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4860" y="300" as="sourcePoint" />
-            <mxPoint x="4692.5" y="385" as="targetPoint" />
+            <mxPoint x="5215.03" y="300" as="sourcePoint" />
+            <mxPoint x="5047.53" y="385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-129" value="Setup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4110" y="700" width="810" height="20" as="geometry" />
+          <mxGeometry x="4465.03" y="700" width="810" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-144" value="ingest content &amp;amp; metadata into Plethora" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="4550" y="790" width="550" height="170" as="geometry" />
+          <mxGeometry x="4905.03" y="790" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-145" value="Ingest relevant user information into User 360" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="790" width="550" height="170" as="geometry" />
+          <mxGeometry x="4285.03" y="790" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-146" value="Add support for new property to Plethora API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4240" y="1090" width="550" height="170" as="geometry" />
+          <mxGeometry x="4595.03" y="1090" width="550" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-147" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4210" y="960" as="sourcePoint" />
-            <mxPoint x="3900" y="1095" as="targetPoint" />
+            <mxPoint x="4565.03" y="960" as="sourcePoint" />
+            <mxPoint x="4255.03" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-148" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-146">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4830" y="960" as="sourcePoint" />
-            <mxPoint x="5140" y="1095" as="targetPoint" />
+            <mxPoint x="5185.03" y="960" as="sourcePoint" />
+            <mxPoint x="5495.03" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-149" value="Add property specific options &amp;amp; filters" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="1200" width="370" height="30" as="geometry" />
+          <mxGeometry x="4705.03" y="1200" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-150" value="Support general functionality (e.g. date filters)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4350" y="1150" width="370" height="30" as="geometry" />
+          <mxGeometry x="4705.03" y="1150" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-151" value="Business Logic for Relevance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4820" y="230" width="270" height="30" as="geometry" />
+          <mxGeometry x="5175.03" y="230" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-152" value="&lt;div&gt;Integration&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4120" y="1420" width="810" height="20" as="geometry" />
+          <mxGeometry x="4475.03" y="1420" width="810" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-154" value="Identify best placements for personalized content recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4250" y="1550" width="550" height="180" as="geometry" />
+          <mxGeometry x="4605.03" y="1550" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-160" value="Connect Plethora APIs to Applications" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4250" y="1870" width="550" height="240" as="geometry" />
+          <mxGeometry x="4605.03" y="1870" width="550" height="240" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-161" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-154" target="LpV175WjBuzZw34_Mzus-160">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4570" y="1770" as="sourcePoint" />
-            <mxPoint x="4820" y="1860" as="targetPoint" />
+            <mxPoint x="4925.03" y="1770" as="sourcePoint" />
+            <mxPoint x="5175.03" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-162" value="Retrieve and display relevant results" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="1990" width="370" height="30" as="geometry" />
+          <mxGeometry x="4695.03" y="1990" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-163" value="Send Plethora information about current user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4340" y="1940" width="370" height="30" as="geometry" />
+          <mxGeometry x="4695.03" y="1940" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-164" value="Instrument display &amp;amp; interactions for performance analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4300" y="2040" width="450" height="30" as="geometry" />
+          <mxGeometry x="4655.03" y="2040" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-166" value="Rapid Iteration &amp;amp; Improvement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="4120" y="2260" width="810" height="20" as="geometry" />
+          <mxGeometry x="4475.03" y="2260" width="810" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-167" value="Evaluate performance of various algorithms in current placements and user buckets" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="2410" width="550" height="180" as="geometry" />
+          <mxGeometry x="4015.04" y="2410" width="550" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-169" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-167">
+        <mxCell id="LpV175WjBuzZw34_Mzus-169" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4250" y="2630" as="sourcePoint" />
-            <mxPoint x="4205" y="2730" as="targetPoint" />
+            <mxPoint x="4290.009999999999" y="2590" as="sourcePoint" />
+            <mxPoint x="4290.01" y="2730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-173" value="Identify additional placements for personalized content recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4550" y="2410" width="550" height="180" as="geometry" />
+          <mxGeometry x="4635.01" y="2410" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-174" value="Connect Plethora APIs to Applications" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4550" y="2730" width="550" height="180" as="geometry" />
+          <mxGeometry x="4635.01" y="2730" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-175" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-173" target="LpV175WjBuzZw34_Mzus-174">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4870" y="2630" as="sourcePoint" />
-            <mxPoint x="5120" y="2720" as="targetPoint" />
+            <mxPoint x="4955.01" y="2630" as="sourcePoint" />
+            <mxPoint x="5205.01" y="2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-179" value="Propose new algorithms based on results" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="2730" width="550" height="180" as="geometry" />
+          <mxGeometry x="4015.04" y="2730" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-183" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;fontSize=35;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-180" target="LpV175WjBuzZw34_Mzus-167">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3830" y="3130" />
-              <mxPoint x="3830" y="2500" />
+              <mxPoint x="3915.04" y="3130" />
+              <mxPoint x="3915.04" y="2500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-180" value="Deploy new algorithms" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3930" y="3040" width="550" height="180" as="geometry" />
+          <mxGeometry x="4015.04" y="3040" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-181" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4204.41" y="2910" as="sourcePoint" />
-            <mxPoint x="4204.41" y="3050" as="targetPoint" />
+            <mxPoint x="4289.42" y="2910" as="sourcePoint" />
+            <mxPoint x="4289.42" y="3050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-184" value="A/B Testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="4085" y="2370" width="265" height="20" as="geometry" />
+          <mxGeometry x="4170.01" y="2370" width="265" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-185" value="Continued Integration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="4665" y="2370" width="320" height="20" as="geometry" />
+          <mxGeometry x="4750.01" y="2370" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-186" value="Find opportunities to improve quality of personalized recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="5170" y="2410" width="550" height="250" as="geometry" />
+          <mxGeometry x="5255.01" y="2410" width="550" height="250" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-189" value="Enrich Metadata &amp;amp; Signals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="5217.5" y="2370" width="455" height="20" as="geometry" />
+          <mxGeometry x="5302.51" y="2370" width="455" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-190" value="Create new relevance signals (e.g. Popularity or &quot;True Engagement&quot;)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5257.5" y="2570" width="370" height="50" as="geometry" />
+          <mxGeometry x="5342.51" y="2570" width="370" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-191" value="Enrich content metadata (e.g. Genome)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="5257.5" y="2520" width="370" height="30" as="geometry" />
+          <mxGeometry x="5342.51" y="2520" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-193" value="Connect new metadata and signals to Plethora" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="5160" y="2730" width="550" height="180" as="geometry" />
+          <mxGeometry x="5245.01" y="2730" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-195" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5435" y="2665" as="sourcePoint" />
-            <mxPoint x="5442" y="2720" as="targetPoint" />
+            <mxPoint x="5520.01" y="2665" as="sourcePoint" />
+            <mxPoint x="5527.01" y="2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-197" value="Build &amp;amp; deploy new algorithms that leverage new capabilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="5160" y="3040" width="550" height="180" as="geometry" />
+          <mxGeometry x="5245.01" y="3040" width="550" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LpV175WjBuzZw34_Mzus-198" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-197">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5434.41" y="2915" as="sourcePoint" />
-            <mxPoint x="5434.41" y="2980" as="targetPoint" />
+            <mxPoint x="5519.42" y="2915" as="sourcePoint" />
+            <mxPoint x="5519.42" y="2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
