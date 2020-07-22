@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-22T14:28:28.368Z" agent="5.0 (Macintosh)" etag="3OLmX4OWtQQwxHOwQi3l" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-22T14:52:08.983Z" agent="5.0 (Macintosh)" etag="aaRO0cXMp8jdQyvLY8VT" version="13.4.9" type="github">
   <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
     <mxGraphModel dx="2807" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -381,32 +381,50 @@
         <mxCell id="LpV175WjBuzZw34_Mzus-152" value="&lt;div&gt;Integration&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="4120" y="1420" width="810" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-153" value="ingest content &amp;amp; metadata into Plethora" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;spacingLeft=5;spacingRight=5;" vertex="1" parent="1">
-          <mxGeometry x="4560" y="1510" width="550" height="170" as="geometry" />
+        <mxCell id="LpV175WjBuzZw34_Mzus-154" value="Identify best placements for personalized content recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="1550" width="550" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-154" value="Ingest relevant user information into User 360" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="1510" width="550" height="170" as="geometry" />
+        <mxCell id="LpV175WjBuzZw34_Mzus-160" value="Connect Plethora APIs to Applications" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="1870" width="550" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-155" value="Add support for new property to Plethora API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="4250" y="1810" width="550" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-156" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-155">
+        <mxCell id="LpV175WjBuzZw34_Mzus-161" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-154" target="LpV175WjBuzZw34_Mzus-160">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4220" y="1680" as="sourcePoint" />
-            <mxPoint x="3910" y="1815" as="targetPoint" />
+            <mxPoint x="4570" y="1770" as="sourcePoint" />
+            <mxPoint x="4820" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-157" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LpV175WjBuzZw34_Mzus-155">
+        <mxCell id="LpV175WjBuzZw34_Mzus-162" value="Retrieve and display relevant results" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="1990" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-163" value="Send Plethora information about current user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="1940" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-164" value="Instrument display &amp;amp; interactions for performance analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4300" y="2040" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-166" value="&lt;div&gt;Integration&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="4120" y="2260" width="810" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-167" value="Identify best placements for personalized content recommendations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=middle;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="2390" width="550" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-168" value="Connect Plethora APIs to Applications" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;spacingTop=5;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="2710" width="550" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-169" value="" style="endArrow=classic;html=1;strokeWidth=2;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LpV175WjBuzZw34_Mzus-167" target="LpV175WjBuzZw34_Mzus-168">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4840" y="1680" as="sourcePoint" />
-            <mxPoint x="5150" y="1815" as="targetPoint" />
+            <mxPoint x="4570" y="2610" as="sourcePoint" />
+            <mxPoint x="4820" y="2700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-158" value="Add property specific options &amp;amp; filters" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4360" y="1920" width="370" height="30" as="geometry" />
+        <mxCell id="LpV175WjBuzZw34_Mzus-170" value="Retrieve and display relevant results" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="2830" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LpV175WjBuzZw34_Mzus-159" value="Support general functionality (e.g. date filters)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="4360" y="1870" width="370" height="30" as="geometry" />
+        <mxCell id="LpV175WjBuzZw34_Mzus-171" value="Send Plethora information about current user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="2780" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LpV175WjBuzZw34_Mzus-172" value="Instrument display &amp;amp; interactions for performance analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="4300" y="2880" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
